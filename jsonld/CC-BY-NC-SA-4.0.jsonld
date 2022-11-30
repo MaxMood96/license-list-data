@@ -13,17 +13,17 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+            "spdx:crossRef": {
+                "@id": "_:b0"
+            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": {
-                "@id": "_:b0"
             }
         },
         {
             "@id": "_:b0",
-            "spdx:timestamp": "2022-11-30T01:58:01Z",
+            "spdx:timestamp": "2022-11-30T14:55:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

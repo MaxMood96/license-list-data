@@ -55,7 +55,7 @@ Use it at your own risk; there is NO WARRANTY.
     </spdx:licenseTextHtml>
     <spdx:crossRef>
       <spdx:CrossRef>
-        <spdx:timestamp>2022-11-30T01:55:16Z</spdx:timestamp>
+        <spdx:timestamp>2022-11-30T14:52:49Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:url>https://fedoraproject.org/wiki/Licensing/XSkat_License</spdx:url>
